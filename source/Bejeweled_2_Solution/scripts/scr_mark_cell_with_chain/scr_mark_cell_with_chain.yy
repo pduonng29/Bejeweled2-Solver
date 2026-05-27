@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_mark_cell_with_chain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_mark_cell_with_chain",
+  "parent":{
+    "name":"Bejeweled_2_Puzzle",
+    "path":"Bejeweled_2_Puzzle.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_swap_cells",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_swap_cells",
+  "parent":{
+    "name":"Bejeweled_2_Puzzle",
+    "path":"Bejeweled_2_Puzzle.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

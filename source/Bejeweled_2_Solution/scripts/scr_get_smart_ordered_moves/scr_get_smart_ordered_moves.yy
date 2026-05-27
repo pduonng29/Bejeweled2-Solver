@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_get_smart_ordered_moves",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_smart_ordered_moves",
+  "parent":{
+    "name":"Bejeweled_2_Puzzle",
+    "path":"Bejeweled_2_Puzzle.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

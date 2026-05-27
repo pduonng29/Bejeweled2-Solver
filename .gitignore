@@ -1,69 +1,37 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
+# GameMaker build/cache files
+*.win
+*.yydebug
+*.debug
+*.exe
+*.dll
 *.pdb
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
+# GameMaker temporary/cache folders
+GMS2CACHE/
+GMS2TEMP/
+Cache/
+cache/
+Temp/
+temp/
 
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Build directories
+# Build/output folders
 build/
 Build/
-build-*/
+output/
+Output/
+dist/
+Dist/
 
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
+# Generated solution files
+*.sol
+*.auto_backup
 
-# Temporary files
-*.tmp
+# Logs
 *.log
-*.bak
-*.swp
 
-# vcpkg
-vcpkg_installed/
-
-# debug information files
-*.dwo
-
-# test output & cache
-Testing/
-.cache/
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
